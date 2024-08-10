@@ -1,6 +1,6 @@
 (ExpressProject "Design5"
   (ProjectVersion "19981106")
-  (SoftwareVersion "22.1 S006 (4129556)  [7/30/2023]-[08/07/24]")
+  (SoftwareVersion "22.1 S006 (4129556)  [7/30/2023]-[08/10/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -25,20 +25,36 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
-    (R_0R0005_2512_6W_1P
-      (FullPartName "R_0R0005_2512_6W_1P.Normal")
+    (GND
       (LibraryName
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
       (DeviceIndex "0"))
     (C_100n_0402_X7R_16V_10P
       (FullPartName "C_100n_0402_X7R_16V_10P.Normal")
-      (LibraryName "E:\CADENCE\LIB.OLB")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
       (DeviceIndex "0"))
-    (GND
+    (R_0R_0402_0W0625
+      (FullPartName "R_0R_0402_0W0625.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (C_100n_0603_X7R_50V_10P
+      (FullPartName "C_100n_0603_X7R_50V_10P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (BLM41PG102SN1L
+      (FullPartName "BLM41PG102SN1L.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0R0005_2512_6W_1P
+      (FullPartName "R_0R0005_2512_6W_1P.Normal")
       (LibraryName
          "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
       (DeviceIndex "0"))
@@ -110,62 +126,18 @@
          "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
       (DeviceIndex "0")))
   (LastUsedLibraryBrowseDirectory
-     "E:\Sharif\educational\term 6+\internship\Design of a Control and Management Plug-in Board for a POE Injector Main Board\data_sheet_LIB\LIB")
+     "E:\Sharif\educational\term 6+\internship\Design of a Control and Management Plug-in Board for a POE Injector Main Board\data_sheet_LIB\new lib")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\mainpoecontroller.dsn")
       (Path "Design Resources" ".\mainpoecontroller.dsn" "SCHEMATIC1")
       (Select "Design Resources" ".\mainpoecontroller.dsn" "SCHEMATIC1"
-         "02.Ethernet"))
+         "03.MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 200 0 491"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1120 24 509")
-        (Scroll "-56 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\MAINPOECONTROLLER.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "01.EEPROM"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1120 24 509")
-        (Scroll "-236 0")
-        (Zoom "63")
-        (Occurrence "/"))
-      (Path
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\MAINPOECONTROLLER.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "05.UART"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1120 24 509")
-        (Scroll "0 142")
-        (Zoom "94")
-        (Occurrence "/"))
-      (Path
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\MAINPOECONTROLLER.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "04.Ports"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1120 24 509")
-        (Scroll "-56 70")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\MAINPOECONTROLLER.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "02.Ethernet")))
+      (Tab 0)))
   (MPSSessionName "asus"))
