@@ -1,0 +1,152 @@
+(ExpressProject "Design5"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S006 (4129556)  [7/30/2023]-[08/13/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\poeicpt1_r1_2024_8_13.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\poeicpt1_r1_2024_8_13.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (R_1K_0402_0W0625_5P
+      (FullPartName "R_1K_0402_0W0625_5P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_1K_0402_0W0625_1P
+      (FullPartName "R_1K_0402_0W0625_1P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_10K_0402_0W0625_1P
+      (FullPartName "R_10K_0402_0W0625_1P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_100K_0402_0W0625_5P
+      (FullPartName "R_100K_0402_0W0625_5P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (C_100n_0402_X7R_16V_10P
+      (FullPartName "C_100n_0402_X7R_16V_10P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0R_0402_0W0625
+      (FullPartName "R_0R_0402_0W0625.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (C_100n_0603_X7R_50V_10P
+      (FullPartName "C_100n_0603_X7R_50V_10P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (BLM41PG102SN1L
+      (FullPartName "BLM41PG102SN1L.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0R0005_2512_6W_1P
+      (FullPartName "R_0R0005_2512_6W_1P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGEBIDIR
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (HEADER_SMD_2mm_2x2
+      (FullPartName "HEADER_SMD_2mm_2x2.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (AT24C04D_SSHM_T
+      (FullPartName "AT24C04D_SSHM_T.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_47R_0402_0W0625_5P
+      (FullPartName "R_47R_0402_0W0625_5P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (DP83848KSQ_NOPB
+      (FullPartName "DP83848KSQ_NOPB.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (88E1512_A0_NNP2C000
+      (FullPartName "88E1512_A0_NNP2C000C.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "2"))
+    (STM32F765ZIT6
+      (FullPartName "STM32F765ZIT6E.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "4"))
+    (MAX3221EIPW
+      (FullPartName "MAX3221EIPW.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (2044_2X10G30SA_LCP
+      (FullPartName "2044_2X10G30SA_LCP.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (LP82453NL
+      (FullPartName "LP82453NL.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "E:\Sharif\educational\term 6+\internship\Design of a Control and Management Plug-in Board for a POE Injector Main Board\data_sheet_LIB\new lib")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\poeicpt1_r1_2024_8_13.dsn")
+      (Path "Design Resources" ".\poeicpt1_r1_2024_8_13.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 491"))
+      (Tab 0)))
+  (MPSSessionName "asus"))
