@@ -1,0 +1,338 @@
+(ExpressProject "Design5"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 S006 (4129556)  [7/30/2023]-[08/13/24]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\poeicpt1_r1_2024_8_13_2.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\poeicpt1_r1_2024_8_13_2.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "TRUE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "TRUE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "TRUE")
+    (DRC_Check_Power_Ground_Short_Online "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "TRUE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DRC")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File"
+       "..\poeicp_layoutt1_r1_2024_8_13_2\poeicpt1_r1_2024_8_13_2.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout"
+    (File "..\poeicp_layoutt1_r1_2024_8_13_2\poeicpt1_r1_2024_8_13_2.brd"
+      (Type "Board File")
+      (OutputBoard
+         "..\poeicp_layoutt1_r1_2024_8_13_2\poeicpt1_r1_2024_8_13_2.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\poeicpt1_r1_2024_8_13_2.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\allegro\eco.txt")))
+  (PartMRUSelector
+    (GND
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (SMD_TP40
+      (FullPartName "SMD_TP40.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (FIDUCIAL
+      (FullPartName "FIDUCIAL.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (FIDUCIAL_CORNER
+      (FullPartName "FIDUCIAL_CORNER.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (SCREW_WITH_VIA
+      (FullPartName "SCREW_WITH_VIA.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_10K_0402_0W0625_1P
+      (FullPartName "R_10K_0402_0W0625_1P.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_47R_0402_0W0625_5P
+      (FullPartName "R_47R_0402_0W0625_5P.Normal")
+      (LibraryName "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_1K_0402_0W0625_5P
+      (FullPartName "R_1K_0402_0W0625_5P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_1K_0402_0W0625_1P
+      (FullPartName "R_1K_0402_0W0625_1P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_100K_0402_0W0625_5P
+      (FullPartName "R_100K_0402_0W0625_5P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (C_100n_0402_X7R_16V_10P
+      (FullPartName "C_100n_0402_X7R_16V_10P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0R_0402_0W0625
+      (FullPartName "R_0R_0402_0W0625.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (C_100n_0603_X7R_50V_10P
+      (FullPartName "C_100n_0603_X7R_50V_10P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\NEW LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (BLM41PG102SN1L
+      (FullPartName "BLM41PG102SN1L.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (R_0R0005_2512_6W_1P
+      (FullPartName "R_0R0005_2512_6W_1P.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGEBIDIR
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (HEADER_SMD_2mm_2x2
+      (FullPartName "HEADER_SMD_2mm_2x2.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (AT24C04D_SSHM_T
+      (FullPartName "AT24C04D_SSHM_T.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (DP83848KSQ_NOPB
+      (FullPartName "DP83848KSQ_NOPB.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "0"))
+    (88E1512_A0_NNP2C000
+      (FullPartName "88E1512_A0_NNP2C000C.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "2"))
+    (STM32F765ZIT6
+      (FullPartName "STM32F765ZIT6E.Normal")
+      (LibraryName
+         "E:\SHARIF\EDUCATIONAL\TERM 6+\INTERNSHIP\DESIGN OF A CONTROL AND MANAGEMENT PLUG-IN BOARD FOR A POE INJECTOR MAIN BOARD\DATA_SHEET_LIB\LIB\LIB.OLB")
+      (DeviceIndex "4")))
+  (LastUsedLibraryBrowseDirectory "E:\GitHub\PoE-Injector\design_board")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\poeicpt1_r1_2024_8_13_2.dsn")
+      (Path "Design Resources" ".\poeicpt1_r1_2024_8_13_2.dsn" "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 660"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 998 24 678")
+        (Scroll "1506 4263")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03.MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 998 24 678")
+        (Scroll "0 0")
+        (Zoom "126")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04.Ports"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 998 24 678")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "06.JTAG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 998 24 678")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05.UART"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 998 24 678")
+        (Scroll "970 268")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02.Ethernet"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 998 24 678")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\GITHUB\POE-INJECTOR\DESIGN_BOARD\POEICPT1_R1_2024_8_13_2\POEICPT1_R1_2024_8_13_2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01.EEPROM")))
+  (MPSSessionName "user")
+  (ISPCBBASICLICENSE "false"))
