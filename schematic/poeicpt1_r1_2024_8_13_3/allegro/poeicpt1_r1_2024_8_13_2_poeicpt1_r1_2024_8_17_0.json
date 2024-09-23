@@ -1,0 +1,79 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "N77631",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77631",
+			"Logical" : null,
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "N77586",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77586",
+			"Logical" : null,
+			"Physical" : "N77586"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "SC1.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\1\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\2\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\3\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\4\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\5\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC2.9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\9\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\8\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\7\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\6\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		}
+	]
+}

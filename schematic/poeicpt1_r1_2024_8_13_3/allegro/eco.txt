@@ -1,0 +1,39 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  e:/github/poe-injector/design_board/layout/poeicpt1_r1_2024_8_31_04.brd     |
+|                                                    Sat Aug 31 14:08:12 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  NPI_TD_N3    pins DELETED FROM this net (all pins deleted)
+                                 U5.8             813.88  364.69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TD_N4    pins DELETED FROM this net (all pins deleted)
+                                 U5.12            814.24  164.69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TD_P3    pins DELETED FROM this net (all pins deleted)
+                                 U5.7             813.79  414.69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TD_P4    pins DELETED FROM this net (all pins deleted)
+                                 U5.11            814.15  214.69
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_N3    pins DELETED FROM this net (all pins deleted)
+                                 U5.17           1156.40  365.31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_N4    pins DELETED FROM this net (all pins deleted)
+                                 U5.13           1156.76  165.31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_P3    pins DELETED FROM this net (all pins deleted)
+                                 U5.18           1156.31  415.31
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_P4    pins DELETED FROM this net (all pins deleted)
+                                 U5.14           1156.67  215.31
+|------------------------------------------------------------------------------|
+|       Nets changed          :       8                                        |
+|                                                                              |
+|   Total ECO changes reported:       8                                        |
+|------------------------------------------------------------------------------|

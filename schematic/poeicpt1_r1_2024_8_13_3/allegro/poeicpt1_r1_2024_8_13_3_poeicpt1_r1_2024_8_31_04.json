@@ -1,0 +1,180 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "GND_EARTH",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):gnd_earth",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "0 V"
+		},
+		{
+			"Name" : "GND_EARTH",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):gnd_earth",
+			"PropName" : "RATSNEST_SCHEDULE",
+			"Logical" : null,
+			"Physical" : "POWER_AND_GROUND"
+		},
+		{
+			"Name" : "GND",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):gnd",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "0 V"
+		},
+		{
+			"Name" : "GND",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):gnd",
+			"PropName" : "RATSNEST_SCHEDULE",
+			"Logical" : null,
+			"Physical" : "POWER_AND_GROUND"
+		},
+		{
+			"Name" : "VDDA_3.3V",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vdda_3.3v\\",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "3.3 V"
+		},
+		{
+			"Name" : "VDDA_3.3V",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vdda_3.3v\\",
+			"PropName" : "RATSNEST_SCHEDULE",
+			"Logical" : null,
+			"Physical" : "POWER_AND_GROUND"
+		},
+		{
+			"Name" : "VCCD_3.3V",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vccd_3.3v\\",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "3.3 V"
+		},
+		{
+			"Name" : "VCCD_3.3V",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vccd_3.3v\\",
+			"PropName" : "RATSNEST_SCHEDULE",
+			"Logical" : null,
+			"Physical" : "POWER_AND_GROUND"
+		},
+		{
+			"Name" : "VCCA_3.3V_PHY",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vcca_3.3v_phy\\",
+			"PropName" : "VOLTAGE",
+			"Logical" : null,
+			"Physical" : "3.3 V"
+		},
+		{
+			"Name" : "VCCA_3.3V_PHY",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):\\vcca_3.3v_phy\\",
+			"PropName" : "RATSNEST_SCHEDULE",
+			"Logical" : null,
+			"Physical" : "POWER_AND_GROUND"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "NPI_TD_P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_p3",
+			"Logical" : null,
+			"Physical" : "NPI_TD_P3"
+		},
+		{
+			"Name" : "NPI_TX_N3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_n3",
+			"Logical" : null,
+			"Physical" : "NPI_TX_N3"
+		},
+		{
+			"Name" : "NPI_TD_N3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_n3",
+			"Logical" : null,
+			"Physical" : "NPI_TD_N3"
+		},
+		{
+			"Name" : "NPI_TD_N4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_n4",
+			"Logical" : null,
+			"Physical" : "NPI_TD_N4"
+		},
+		{
+			"Name" : "NPI_TX_P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_p4",
+			"Logical" : null,
+			"Physical" : "NPI_TX_P4"
+		},
+		{
+			"Name" : "NPI_TX_P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_p3",
+			"Logical" : null,
+			"Physical" : "NPI_TX_P3"
+		},
+		{
+			"Name" : "NPI_TX_N4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_n4",
+			"Logical" : null,
+			"Physical" : "NPI_TX_N4"
+		},
+		{
+			"Name" : "NPI_TD_P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_p4",
+			"Logical" : null,
+			"Physical" : "NPI_TD_P4"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "U5.13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx4-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_N4"
+		},
+		{
+			"Name" : "U5.14",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx4+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_P4"
+		},
+		{
+			"Name" : "U5.17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx3-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_N3"
+		},
+		{
+			"Name" : "U5.18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx3+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_P3"
+		},
+		{
+			"Name" : "U5.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td3+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_P3"
+		},
+		{
+			"Name" : "U5.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td3-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_N3"
+		},
+		{
+			"Name" : "U5.11",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td4+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_P4"
+		},
+		{
+			"Name" : "U5.12",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td4-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_N4"
+		}
+	]
+}

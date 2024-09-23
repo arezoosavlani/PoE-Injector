@@ -1,0 +1,83 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  e:/github/poe-injector/design_board/layout/poeicpt1_r1_2024_8_21.brd        |
+|                                                    Wed Aug 21 15:44:17 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND_EARTH    pins DELETED FROM this net (pin now not on any net)
+                                 J2.P14          2392.45 1269.75
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins MOVED FROM this net (to net name listed on right)
+                                 J2.P17          2592.45 1369.75
+                                                                      NPI_TX_P2
+                                 J2.P20          2692.45 1269.75
+                                                                      NPI_TX_N2
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.P13          2392.45 1369.75
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MCU_RESET    pins MOVED FROM this net (to net name listed on right)
+                                 J2.P5           1992.45 1369.75
+                                                           POE_CONTROLLER_INTRP
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_N1    pins MOVED FROM this net (to net name listed on right)
+                                 J2.P16          2492.45 1269.75
+                                                                      NPI_TX_P1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_N2    pins MOVED FROM this net (to net name listed on right)
+                                 J2.P19          2692.45 1369.75
+                                                                      GND_EARTH
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_P1    pins MOVED FROM this net (to net name listed on right)
+                                 J2.P15          2492.45 1369.75
+                                                                      NPI_TX_N1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  NPI_TX_P2    pins MOVED FROM this net (to net name listed on right)
+                                 J2.P18          2592.45 1269.75
+                                                                      GND_EARTH
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  POE_CONTROLLER_INTRP pins MOVED FROM this net (to net name listed on right)
+                                 J2.P6           1992.45 1269.75
+                                                                      MCU_RESET
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  POE_CONTROLLER_RESET pins MOVED FROM this net (to net name listed on right)
+                                 J2.P4           1892.45 1269.75
+                                                                    POE_I2C_SDA
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  POE_I2C_SCL  pins DELETED FROM this net (pin now not on any net)
+                                 J2.P2           1792.45 1269.75
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J2.P1           1792.45 1369.75
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  e:/github/poe-injector/design_board/layout/poeicpt1_r1_2024_8_21.brd        |
+|                                                    Wed Aug 21 15:44:17 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  POE_I2C_SDA  pins MOVED FROM this net (to net name listed on right)
+                                 J2.P3           1892.45 1369.75
+                                                           POE_CONTROLLER_RESET
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS_UART_RX   pins MOVED FROM this net (to net name listed on right)
+                                 J2.P10          2192.45 1269.75
+                                                                     RS_UART_TX
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS_UART_TX   pins MOVED FROM this net (to net name listed on right)
+                                 J2.P9           2192.45 1369.75
+                                                                     RS_UART_RX
+|------------------------------------------------------------------------------|
+|       Nets changed          :      16                                        |
+|                                                                              |
+|   Total ECO changes reported:      16                                        |
+|------------------------------------------------------------------------------|

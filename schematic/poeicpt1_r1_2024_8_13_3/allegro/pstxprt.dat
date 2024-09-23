@@ -1,0 +1,1263 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 22.1.0 d001Aug-31-2024 at 14:08:12 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='POEICPT1_R1_2024_8_13_2';
+ POST_TIME='Jul 30 2023 23:27:03';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B1 'BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37510@LIB.BLM41PG102SN1L.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37510@lib.\blm41pg102sn1l.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37510@lib.\blm41pg102sn1l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,40)',
+ SECTION='';
+
+PART_NAME
+ B2 'BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52831@LIB.BLM41PG102SN1L.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52831@lib.\blm41pg102sn1l.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52831@lib.\blm41pg102sn1l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(940,2880)',
+ SECTION='';
+
+PART_NAME
+ B3 'BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS55821@LIB.BLM41PG102SN1L.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins55821@lib.\blm41pg102sn1l.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins55821@lib.\blm41pg102sn1l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,500)',
+ SECTION='';
+
+PART_NAME
+ C1 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19441@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19441@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page1_ins19441@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,310)',
+ SECTION='';
+
+PART_NAME
+ C10 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS40805@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins40805@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins40805@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,160)',
+ SECTION='';
+
+PART_NAME
+ C11 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS40781@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins40781@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins40781@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,220)',
+ SECTION='';
+
+PART_NAME
+ C12 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS18161@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18161@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins18161@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,390)',
+ SECTION='';
+
+PART_NAME
+ C13 'C_100N_0603_X7R_50V_10P_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS38843@LIB.C_100N_0603_X7R_50V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38843@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins38843@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,390)',
+ SECTION='';
+
+PART_NAME
+ C14 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS31754@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins31754@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins31754@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,430)',
+ SECTION='';
+
+PART_NAME
+ C15 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS31778@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins31778@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins31778@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,430)',
+ SECTION='';
+
+PART_NAME
+ C16 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS34822@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34822@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins34822@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2570,2170)',
+ SECTION='';
+
+PART_NAME
+ C17 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52567@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52567@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52567@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,2750)',
+ SECTION='';
+
+PART_NAME
+ C18 'C_100N_0402_X7R_16V_10P_0402_1UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52591@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52591@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52591@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1460,2750)',
+ SECTION='';
+
+PART_NAME
+ C19 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52615@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52615@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52615@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1600,2750)',
+ SECTION='';
+
+PART_NAME
+ C2 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19465@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19465@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page1_ins19465@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,310)',
+ SECTION='';
+
+PART_NAME
+ C20 'C_100N_0402_X7R_16V_10P_0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52861@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52861@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52861@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2240,2880)',
+ SECTION='';
+
+PART_NAME
+ C21 'C_100N_0402_X7R_16V_10P_0402_2.2UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52885@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52885@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52885@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2380,2880)',
+ SECTION='';
+
+PART_NAME
+ C22 'C_100N_0402_X7R_16V_10P_0402_1UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52949@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52949@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52949@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,2900)',
+ SECTION='';
+
+PART_NAME
+ C23 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52973@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52973@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52973@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,2900)',
+ SECTION='';
+
+PART_NAME
+ C24 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53091@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53091@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53091@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,3070)',
+ SECTION='';
+
+PART_NAME
+ C25 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53115@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53115@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53115@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1580,3070)',
+ SECTION='';
+
+PART_NAME
+ C26 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53139@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53139@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53139@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1690,3070)',
+ SECTION='';
+
+PART_NAME
+ C27 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53163@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53163@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53163@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1800,3070)',
+ SECTION='';
+
+PART_NAME
+ C28 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53187@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53187@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53187@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1910,3070)',
+ SECTION='';
+
+PART_NAME
+ C29 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53211@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53211@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53211@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2010,3070)',
+ SECTION='';
+
+PART_NAME
+ C3 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37951@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37951@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37951@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,60)',
+ SECTION='';
+
+PART_NAME
+ C30 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53235@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53235@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53235@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2110,3070)',
+ SECTION='';
+
+PART_NAME
+ C31 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53259@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53259@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53259@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2210,3070)',
+ SECTION='';
+
+PART_NAME
+ C32 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53283@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53283@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53283@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2310,3070)',
+ SECTION='';
+
+PART_NAME
+ C33 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53307@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53307@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53307@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2410,3070)',
+ SECTION='';
+
+PART_NAME
+ C34 'C_100N_0402_X7R_16V_10P_0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS53331@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53331@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins53331@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2510,3070)',
+ SECTION='';
+
+PART_NAME
+ C35 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19961@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19961@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19961@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,600)',
+ SECTION='';
+
+PART_NAME
+ C36 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20013@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20013@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins20013@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,600)',
+ SECTION='';
+
+PART_NAME
+ C37 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20265@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20265@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins20265@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,600)',
+ SECTION='';
+
+PART_NAME
+ C38 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19881@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19881@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19881@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,600)',
+ SECTION='';
+
+PART_NAME
+ C39 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19933@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19933@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19933@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,600)',
+ SECTION='';
+
+PART_NAME
+ C4 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37975@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37975@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37975@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,60)',
+ SECTION='';
+
+PART_NAME
+ C40 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20797@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20797@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins20797@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,90)',
+ SECTION='';
+
+PART_NAME
+ C41 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20609@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20609@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins20609@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,90)',
+ SECTION='';
+
+PART_NAME
+ C42 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20637@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20637@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins20637@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,210)',
+ SECTION='';
+
+PART_NAME
+ C43 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20665@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20665@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins20665@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,210)',
+ SECTION='';
+
+PART_NAME
+ C44 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20693@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20693@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins20693@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,340)',
+ SECTION='';
+
+PART_NAME
+ C5 'C_100N_0603_X7R_50V_10P_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS38012@LIB.C_100N_0603_X7R_50V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38012@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins38012@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,60)',
+ SECTION='';
+
+PART_NAME
+ C6 'C_100N_0603_X7R_50V_10P_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS38036@LIB.C_100N_0603_X7R_50V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38036@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins38036@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,60)',
+ SECTION='';
+
+PART_NAME
+ C7 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37578@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37578@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37578@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(830,90)',
+ SECTION='';
+
+PART_NAME
+ C8 'C_100N_0402_X7R_16V_10P_0402_100NF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37602@LIB.C_100N_0402_X7R_16V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37602@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37602@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(860,90)',
+ SECTION='';
+
+PART_NAME
+ C9 'C_100N_0603_X7R_50V_10P_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS37639@LIB.C_100N_0603_X7R_50V_10P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37639@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins37639@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,90)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID1 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77371@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77371@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77371@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(70,680)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID2 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77387@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77387@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77387@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,750)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID3 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77403@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77403@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77403@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,680)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID4 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77419@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77419@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77419@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,750)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID5 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77435@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77435@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77435@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,680)',
+ SECTION='';
+
+PART_NAME
+ CORNER_FID6 'FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77451@LIB.FIDUCIAL_CORNER.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77451@lib.\fiducial_corner.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77451@lib.\fiducial_corner.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,750)',
+ SECTION='';
+
+PART_NAME
+ FID1 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77474@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77474@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77474@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,670)',
+ SECTION='';
+
+PART_NAME
+ FID2 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77490@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77490@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77490@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,740)',
+ SECTION='';
+
+PART_NAME
+ FID3 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77506@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77506@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77506@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,670)',
+ SECTION='';
+
+PART_NAME
+ FID4 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77522@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77522@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77522@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,740)',
+ SECTION='';
+
+PART_NAME
+ FID5 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77538@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77538@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77538@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,670)',
+ SECTION='';
+
+PART_NAME
+ FID6 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77554@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77554@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77554@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,740)',
+ SECTION='';
+
+PART_NAME
+ FID7 'FIDUCIAL_FIDUCIAL_FIDUCIAL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77570@LIB.FIDUCIAL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77570@lib.\fiducial.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77570@lib.\fiducial.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,810)',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER_SMD_2MM_2X2_2115_2X2_HEADER_SMD_2MM_2X2':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS18717@LIB.HEADER_SMD_2MM_2X2.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18717@lib.\header_smd_2mm_2x2.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page1_ins18717@lib.\header_smd_2mm_2x2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,60)',
+ SECTION='';
+
+PART_NAME
+ J2 '2044_2X10G30SA_LCP_2044_2X10G30SA_LCP_2044_2X10G30SA_LCP':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20041@LIB.2044_2X10G30SA_LCP.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\2044_2x10g30sa_lcp.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins20041@lib.\2044_2x10g30sa_lcp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,230)',
+ SECTION='';
+
+PART_NAME
+ J3 'JTAG_CONNECTOR_2115_2X10_JTAG':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61161@LIB.JTAG_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61161@lib.\jtag_connector.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61161@lib.\jtag_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,140)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_1K_0402_0W0625_1P_0402_4.7K 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19225@LIB.R_1K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19225@lib.\r_1k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page1_ins19225@lib.\r_1k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,70)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_100K_0402_0W0625_5P_0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16674@LIB.R_100K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16674@lib.\r_100k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16674@lib.\r_100k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,300)',
+ SECTION='';
+
+PART_NAME
+ R11 'R_1K_0402_0W0625_1P_0402_1K 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16800@LIB.R_1K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16800@lib.\r_1k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16800@lib.\r_1k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,310)',
+ SECTION='';
+
+PART_NAME
+ R12 'R_1K_0402_0W0625_5P_0402_4.87K':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS80854@LIB.R_1K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins80854@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins80854@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,320)',
+ SECTION='';
+
+PART_NAME
+ R13 'R_47R_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16748@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16748@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16748@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,340)',
+ SECTION='';
+
+PART_NAME
+ R14 'R_47R_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16064@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16064@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16064@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,360)',
+ SECTION='';
+
+PART_NAME
+ R15 'R_47R_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16108@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16108@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16108@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,370)',
+ SECTION='';
+
+PART_NAME
+ R16 'R_0R_0402_0W0625_0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS38530@LIB.R_0R_0402_0W0625.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38530@lib.\r_0r_0402_0w0625.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins38530@lib.\r_0r_0402_0w0625.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,440)',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0R_0402_0W0625_0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS38550@LIB.R_0R_0402_0W0625.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38550@lib.\r_0r_0402_0w0625.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins38550@lib.\r_0r_0402_0w0625.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1470,470)',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0R_0402_0W0625_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS39535@LIB.R_0R_0402_0W0625.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins39535@lib.\r_0r_0402_0w0625.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins39535@lib.\r_0r_0402_0w0625.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2680,460)',
+ SECTION='';
+
+PART_NAME
+ R19 'R_47R_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS57980@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins57980@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins57980@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,880)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_100K_0402_0W0625_5P_0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS16582@LIB.R_100K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16582@lib.\r_100k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins16582@lib.\r_100k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,90)',
+ SECTION='';
+
+PART_NAME
+ R20 'R_1K_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS49472@LIB.R_1K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins49472@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins49472@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,1000)',
+ SECTION='';
+
+PART_NAME
+ R21 'R_1K_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS49492@LIB.R_1K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins49492@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins49492@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1410,1020)',
+ SECTION='';
+
+PART_NAME
+ R22 'R_10K_0402_0W0625_1P_0402_10K 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS59217@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins59217@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins59217@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2450,2110)',
+ SECTION='';
+
+PART_NAME
+ R23 'R_47R_0402_0W0625_5P_0402_100':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS58740@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins58740@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins58740@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2470,2160)',
+ SECTION='';
+
+PART_NAME
+ R24 'R_75R_0402_0W0625_5P_0402_4.7K__NP':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS34897@LIB.R_75R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34897@lib.\r_75r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins34897@lib.\r_75r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2590,2240)',
+ SECTION='';
+
+PART_NAME
+ R25 'R_75R_0402_0W0625_5P_0402_100':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS34917@LIB.R_75R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34917@lib.\r_75r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins34917@lib.\r_75r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2590,2260)',
+ SECTION='';
+
+PART_NAME
+ R26 'R_1K_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52921@LIB.R_1K_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52921@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52921@lib.\r_1k_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2110,2890)',
+ SECTION='';
+
+PART_NAME
+ R27 'R_75R_0603_0W1_5P_0603_75':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19989@LIB.R_75R_0603_0W1_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19989@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19989@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,710)',
+ SECTION='';
+
+PART_NAME
+ R28 'R_75R_0603_0W1_5P_0603_75':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20133@LIB.R_75R_0603_0W1_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20133@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins20133@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,710)',
+ SECTION='';
+
+PART_NAME
+ R29 'R_75R_0603_0W1_5P_0603_75':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19857@LIB.R_75R_0603_0W1_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19857@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19857@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,710)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_47R_0402_0W0625_5P_0402_47':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS15329@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins15329@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins15329@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,160)',
+ SECTION='';
+
+PART_NAME
+ R30 'R_75R_0603_0W1_5P_0603_75':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS19909@LIB.R_75R_0603_0W1_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19909@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins19909@lib.\r_75r_0603_0w1_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,710)',
+ SECTION='';
+
+PART_NAME
+ R31 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61253@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61253@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61253@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,160)',
+ SECTION='';
+
+PART_NAME
+ R32 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61301@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61301@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61301@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,170)',
+ SECTION='';
+
+PART_NAME
+ R33 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61349@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61349@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61349@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,150)',
+ SECTION='';
+
+PART_NAME
+ R34 'R_47R_0402_0W0625_5P_0402_56__NP':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61373@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61373@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61373@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,180)',
+ SECTION='';
+
+PART_NAME
+ R35 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61113@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61113@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61113@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,170)',
+ SECTION='';
+
+PART_NAME
+ R36 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61089@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61089@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61089@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,180)',
+ SECTION='';
+
+PART_NAME
+ R37 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61137@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61137@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61137@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,190)',
+ SECTION='';
+
+PART_NAME
+ R38 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61277@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61277@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61277@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,210)',
+ SECTION='';
+
+PART_NAME
+ R39 'R_47R_0402_0W0625_5P_0402_56':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS61325@LIB.R_47R_0402_0W0625_5P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61325@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page6_ins61325@lib.\r_47r_0402_0w0625_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,220)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_10K_0402_0W0625_1P_0402_49.9 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48530@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48530@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48530@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,170)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_10K_0402_0W0625_1P_0402_49.9 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48550@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48550@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48550@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,160)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_10K_0402_0W0625_1P_0402_49.9 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48734@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48734@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48734@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,210)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_10K_0402_0W0625_1P_0402_49.9 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48768@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48768@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48768@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,220)',
+ SECTION='';
+
+PART_NAME
+ R8 'R_10K_0402_0W0625_1P_0402_4.7K__NP 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48327@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48327@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48327@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,280)',
+ SECTION='';
+
+PART_NAME
+ R9 'R_10K_0402_0W0625_1P_0402_4.7K__NP 1%':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS48347@LIB.R_10K_0402_0W0625_1P.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48347@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins48347@lib.\r_10k_0402_0w0625_1p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,290)',
+ SECTION='';
+
+PART_NAME
+ SC1 'SCREW_WITH_VIA_SCREW_WITH_VIA_SCREW_WITH_VIA':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77245@LIB.SCREW_WITH_VIA.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\screw_with_via.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77245@lib.\screw_with_via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,60)',
+ SECTION='';
+
+PART_NAME
+ SC2 'SCREW_WITH_VIA_SCREW_WITH_VIA_SCREW_WITH_VIA':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77293@LIB.SCREW_WITH_VIA.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\screw_with_via.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins77293@lib.\screw_with_via.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,60)',
+ SECTION='';
+
+PART_NAME
+ TP1 'SMD_TP40_SMD_TP40_GND':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77763@LIB.SMD_TP40.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77763@lib.\smd_tp40.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins77763@lib.\smd_tp40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1290,3050)',
+ SECTION='';
+
+PART_NAME
+ TP2 'SMD_TP40_SMD_TP40_VCCD_3.3V':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS77777@LIB.SMD_TP40.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77777@lib.\smd_tp40.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins77777@lib.\smd_tp40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,3050)',
+ SECTION='';
+
+PART_NAME
+ U1 'AT24C04D_SSHM_T_AT24C04D_SSHM_T_AT24C04D_SSHM_T':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS18672@LIB.AT24C04D_SSHM_T.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18672@lib.\at24c04d_sshm_t.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page1_ins18672@lib.\at24c04d_sshm_t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,60)',
+ SECTION='';
+
+PART_NAME
+ U2 'DP83848KSQ_NOPB_DP83848KSQ_NOPB_DP83848KSQ_NOPB':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS14111@LIB.DP83848KSQ_NOPB.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins14111@lib.\dp83848ksq_nopb.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page2_ins14111@lib.\dp83848ksq_nopb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,110)',
+ SECTION='';
+
+PART_NAME
+ U4 'STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS7563@LIB.STM32F765ZIT6A.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins7563@lib.\stm32f765zit6a.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins7563@lib.\stm32f765zit6a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS7853@LIB.STM32F765ZIT6B.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins7853@lib.\stm32f765zit6b.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins7853@lib.\stm32f765zit6b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS8150@LIB.STM32F765ZIT6C.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins8150@lib.\stm32f765zit6c.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins8150@lib.\stm32f765zit6c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS8273@LIB.STM32F765ZIT6D.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins8273@lib.\stm32f765zit6d.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins8273@lib.\stm32f765zit6d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS52451@LIB.STM32F765ZIT6E.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52451@lib.\stm32f765zit6e.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page3_ins52451@lib.\stm32f765zit6e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,340)',
+ SECTION='E';
+
+PART_NAME
+ U5 'LP82453NL_LP82453NL_LP82453NL':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS20157@LIB.LP82453NL.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\lp82453nl.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page4_ins20157@lib.\lp82453nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,100)',
+ SECTION='';
+
+PART_NAME
+ U6 'MAX3232EIPW_MAX3232EIPW_MAX3232EIPW':;
+
+SECTION_NUMBER 1
+ '@POEICPT1_R1_2024_8_13_2.SCHEMATIC1(SCH_1):INS34326@LIB.MAX3232EIPW.NORMAL(CHIPS)':
+ C_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34326@lib.\max3232eipw.normal\(chips)',
+ P_PATH='@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):page5_ins34326@lib.\max3232eipw.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,200)',
+ SECTION='';
+
+END.

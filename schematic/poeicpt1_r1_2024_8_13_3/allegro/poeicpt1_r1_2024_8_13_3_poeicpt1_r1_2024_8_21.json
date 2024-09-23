@@ -1,0 +1,199 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "J2.P10",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P10",
+			"Logical" : "J2.P10",
+			"Physical" : "J2.P9"
+		},
+		{
+			"Name" : "J2.P9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P9",
+			"Logical" : "J2.P9",
+			"Physical" : "J2.P10"
+		},
+		{
+			"Name" : "J2.P5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P5",
+			"Logical" : "J2.P5",
+			"Physical" : "J2.P6"
+		},
+		{
+			"Name" : "J2.P6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P6",
+			"Logical" : "J2.P6",
+			"Physical" : "J2.P5"
+		},
+		{
+			"Name" : "J2.P17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P17",
+			"Logical" : "J2.P17",
+			"Physical" : "J2.P18"
+		},
+		{
+			"Name" : "J2.P19",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P19",
+			"Logical" : "J2.P19",
+			"Physical" : "J2.P17"
+		},
+		{
+			"Name" : "J2.P20",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P20",
+			"Logical" : "J2.P20",
+			"Physical" : "J2.P19"
+		},
+		{
+			"Name" : "J2.P13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P13",
+			"Logical" : "J2.P13",
+			"Physical" : "J2.P20"
+		},
+		{
+			"Name" : "J2.P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P3",
+			"Logical" : "J2.P3",
+			"Physical" : "J2.P4"
+		},
+		{
+			"Name" : "J2.P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P4",
+			"Logical" : "J2.P4",
+			"Physical" : "J2.P3"
+		},
+		{
+			"Name" : "J2.P16",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P16",
+			"Logical" : "J2.P16",
+			"Physical" : "J2.P15"
+		},
+		{
+			"Name" : "J2.P15",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P15",
+			"Logical" : "J2.P15",
+			"Physical" : "J2.P16"
+		},
+		{
+			"Name" : "J2.P18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P18",
+			"Logical" : "J2.P18",
+			"Physical" : "J2.P14"
+		},
+		{
+			"Name" : "J2.P1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P1",
+			"Logical" : "J2.P1",
+			"Physical" : "J2.P2"
+		},
+		{
+			"Name" : "J2.P2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P2",
+			"Logical" : "J2.P2",
+			"Physical" : "J2.P1"
+		}
+	],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "J2.P19",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P19",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NPI_TX_N2"
+		},
+		{
+			"Name" : "J2.P13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P13",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "J2.P18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P18",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NPI_TX_P2"
+		},
+		{
+			"Name" : "J2.P1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P1",
+			"Logical" : "POE_I2C_SCL",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "J2.P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P4",
+			"Logical" : "POE_I2C_SDA",
+			"Physical" : "POE_CONTROLLER_RESET"
+		},
+		{
+			"Name" : "J2.P9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P9",
+			"Logical" : "RS_UART_RX",
+			"Physical" : "RS_UART_TX"
+		},
+		{
+			"Name" : "J2.P10",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P10",
+			"Logical" : "RS_UART_TX",
+			"Physical" : "RS_UART_RX"
+		},
+		{
+			"Name" : "J2.P6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P6",
+			"Logical" : "MCU_RESET",
+			"Physical" : "POE_CONTROLLER_INTRP"
+		},
+		{
+			"Name" : "J2.P5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P5",
+			"Logical" : "POE_CONTROLLER_INTRP",
+			"Physical" : "MCU_RESET"
+		},
+		{
+			"Name" : "J2.P15",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P15",
+			"Logical" : "NPI_TX_N1",
+			"Physical" : "NPI_TX_P1"
+		},
+		{
+			"Name" : "J2.P17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P17",
+			"Logical" : "NPI_TX_P2",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P20",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P20",
+			"Logical" : "NPI_TX_N2",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P3",
+			"Logical" : "POE_CONTROLLER_RESET",
+			"Physical" : "POE_I2C_SDA"
+		},
+		{
+			"Name" : "J2.P16",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P16",
+			"Logical" : "NPI_TX_P1",
+			"Physical" : "NPI_TX_N1"
+		},
+		{
+			"Name" : "J2.P14",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P14",
+			"Logical" : "NC",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P2",
+			"Logical" : "NC",
+			"Physical" : "POE_I2C_SCL"
+		}
+	]
+}

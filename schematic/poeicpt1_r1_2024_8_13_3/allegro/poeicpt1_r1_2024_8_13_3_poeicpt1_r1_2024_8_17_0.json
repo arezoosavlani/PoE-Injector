@@ -1,0 +1,392 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "J2.P10",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P10",
+			"Logical" : "J2.P10",
+			"Physical" : "J2.P9"
+		},
+		{
+			"Name" : "J2.P9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P9",
+			"Logical" : "J2.P9",
+			"Physical" : "J2.P10"
+		},
+		{
+			"Name" : "J2.P5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P5",
+			"Logical" : "J2.P5",
+			"Physical" : "J2.P6"
+		},
+		{
+			"Name" : "J2.P6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P6",
+			"Logical" : "J2.P6",
+			"Physical" : "J2.P5"
+		},
+		{
+			"Name" : "J2.P17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P17",
+			"Logical" : "J2.P17",
+			"Physical" : "J2.P18"
+		},
+		{
+			"Name" : "J2.P18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P18",
+			"Logical" : "J2.P18",
+			"Physical" : "J2.P17"
+		},
+		{
+			"Name" : "J2.P20",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P20",
+			"Logical" : "J2.P20",
+			"Physical" : "J2.P19"
+		},
+		{
+			"Name" : "J2.P19",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P19",
+			"Logical" : "J2.P19",
+			"Physical" : "J2.P20"
+		},
+		{
+			"Name" : "J2.P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P3",
+			"Logical" : "J2.P3",
+			"Physical" : "J2.P4"
+		},
+		{
+			"Name" : "J2.P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P4",
+			"Logical" : "J2.P4",
+			"Physical" : "J2.P3"
+		},
+		{
+			"Name" : "J2.P16",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P16",
+			"Logical" : "J2.P16",
+			"Physical" : "J2.P15"
+		},
+		{
+			"Name" : "J2.P15",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P15",
+			"Logical" : "J2.P15",
+			"Physical" : "J2.P16"
+		},
+		{
+			"Name" : "J2.P13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P13",
+			"Logical" : "J2.P13",
+			"Physical" : "J2.P14"
+		},
+		{
+			"Name" : "J2.P1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P1",
+			"Logical" : "J2.P1",
+			"Physical" : "J2.P2"
+		},
+		{
+			"Name" : "J2.P2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P2",
+			"Logical" : "J2.P2",
+			"Physical" : "J2.P1"
+		},
+		{
+			"Name" : "J2.P14",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P14",
+			"Logical" : "J2.P14",
+			"Physical" : "J2.P17"
+		}
+	],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "N77631",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77631",
+			"Logical" : null,
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "N77586",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77586",
+			"Logical" : null,
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "C2_N",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):c2_n",
+			"Logical" : null,
+			"Physical" : "C2_N"
+		},
+		{
+			"Name" : "C1_N",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):c1_n",
+			"Logical" : null,
+			"Physical" : "C1_N"
+		},
+		{
+			"Name" : "NPI_TD_P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_p3",
+			"Logical" : null,
+			"Physical" : "NPI_TD_P3"
+		},
+		{
+			"Name" : "NPI_TX_N3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_n3",
+			"Logical" : null,
+			"Physical" : "NPI_TX_N3"
+		},
+		{
+			"Name" : "NPI_TD_N3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_n3",
+			"Logical" : null,
+			"Physical" : "NPI_TD_N3"
+		},
+		{
+			"Name" : "NPI_TD_N4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_n4",
+			"Logical" : null,
+			"Physical" : "NPI_TD_N4"
+		},
+		{
+			"Name" : "NPI_TX_P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_p4",
+			"Logical" : null,
+			"Physical" : "NPI_TX_P4"
+		},
+		{
+			"Name" : "NPI_TX_P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_p3",
+			"Logical" : null,
+			"Physical" : "NPI_TX_P3"
+		},
+		{
+			"Name" : "NPI_TX_N4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_tx_n4",
+			"Logical" : null,
+			"Physical" : "NPI_TX_N4"
+		},
+		{
+			"Name" : "NPI_TD_P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):npi_td_p4",
+			"Logical" : null,
+			"Physical" : "NPI_TD_P4"
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "C42.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20637@lib.\\c_100n_0402_x7r_16v_10p.normal\\(chips):\\2\\",
+			"Logical" : "C51_N",
+			"Physical" : "C1_N"
+		},
+		{
+			"Name" : "C43.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20665@lib.\\c_100n_0402_x7r_16v_10p.normal\\(chips):\\2\\",
+			"Logical" : "C52_N",
+			"Physical" : "C2_N"
+		},
+		{
+			"Name" : "J2.P18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P18",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NPI_TX_P2"
+		},
+		{
+			"Name" : "J2.P19",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P19",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NPI_TX_N2"
+		},
+		{
+			"Name" : "J2.P13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P13",
+			"Logical" : "GND_EARTH",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "J2.P1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P1",
+			"Logical" : "POE_I2C_SCL",
+			"Physical" : "NC"
+		},
+		{
+			"Name" : "J2.P4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P4",
+			"Logical" : "POE_I2C_SDA",
+			"Physical" : "POE_CONTROLLER_RESET"
+		},
+		{
+			"Name" : "J2.P9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P9",
+			"Logical" : "RS_UART_RX",
+			"Physical" : "RS_UART_TX"
+		},
+		{
+			"Name" : "J2.P10",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P10",
+			"Logical" : "RS_UART_TX",
+			"Physical" : "RS_UART_RX"
+		},
+		{
+			"Name" : "J2.P6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P6",
+			"Logical" : "MCU_RESET",
+			"Physical" : "POE_CONTROLLER_INTRP"
+		},
+		{
+			"Name" : "J2.P5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P5",
+			"Logical" : "POE_CONTROLLER_INTRP",
+			"Physical" : "MCU_RESET"
+		},
+		{
+			"Name" : "J2.P15",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P15",
+			"Logical" : "NPI_TX_N1",
+			"Physical" : "NPI_TX_P1"
+		},
+		{
+			"Name" : "J2.P17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P17",
+			"Logical" : "NPI_TX_P2",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P20",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P20",
+			"Logical" : "NPI_TX_N2",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P3",
+			"Logical" : "POE_CONTROLLER_RESET",
+			"Physical" : "POE_I2C_SDA"
+		},
+		{
+			"Name" : "J2.P16",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P16",
+			"Logical" : "NPI_TX_P1",
+			"Physical" : "NPI_TX_N1"
+		},
+		{
+			"Name" : "J2.P14",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P14",
+			"Logical" : "NC",
+			"Physical" : "GND_EARTH"
+		},
+		{
+			"Name" : "J2.P2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\\2044_2x10g30sa_lcp.normal\\(chips):P2",
+			"Logical" : "NC",
+			"Physical" : "POE_I2C_SCL"
+		},
+		{
+			"Name" : "SC1.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\1\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\2\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\3\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\4\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC1.5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\5\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77586"
+		},
+		{
+			"Name" : "SC2.9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\9\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\8\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\7\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "SC2.6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\6\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : "N77631"
+		},
+		{
+			"Name" : "U5.13",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx4-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_N4"
+		},
+		{
+			"Name" : "U5.14",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx4+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_P4"
+		},
+		{
+			"Name" : "U5.17",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx3-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_N3"
+		},
+		{
+			"Name" : "U5.18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\tx3+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TX_P3"
+		},
+		{
+			"Name" : "U5.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td3+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_P3"
+		},
+		{
+			"Name" : "U5.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td3-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_N3"
+		},
+		{
+			"Name" : "U5.11",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td4+\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_P4"
+		},
+		{
+			"Name" : "U5.12",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\\lp82453nl.normal\\(chips):\\td4-\\",
+			"Logical" : "NC",
+			"Physical" : "NPI_TD_N4"
+		}
+	]
+}

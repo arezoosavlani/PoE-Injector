@@ -1,0 +1,416 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "R12",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins31565@lib.\\r_0r0005_2512_6w_1p.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R12"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins6342@lib.\\88e1512_a0_nnp2c000a.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U3"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins6488@lib.\\88e1512_a0_nnp2c000b.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U3"
+		},
+		{
+			"Name" : "U3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins6591@lib.\\88e1512_a0_nnp2c000c.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U3"
+		},
+		{
+			"Name" : "CORNER_FID1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77371@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID1",
+			"Physical" : null
+		},
+		{
+			"Name" : "CORNER_FID2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77387@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID2",
+			"Physical" : null
+		},
+		{
+			"Name" : "CORNER_FID3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77403@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID3",
+			"Physical" : null
+		},
+		{
+			"Name" : "CORNER_FID4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77419@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID4",
+			"Physical" : null
+		},
+		{
+			"Name" : "CORNER_FID5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77435@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID5",
+			"Physical" : null
+		},
+		{
+			"Name" : "CORNER_FID6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77451@lib.\\fiducial_corner.normal\\(chips)",
+			"Logical" : "CORNER_FID6",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77474@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID1",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77490@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID2",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77506@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID3",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77522@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID4",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77538@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID5",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77554@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID6",
+			"Physical" : null
+		},
+		{
+			"Name" : "FID7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77570@lib.\\fiducial.normal\\(chips)",
+			"Logical" : "FID7",
+			"Physical" : null
+		},
+		{
+			"Name" : "R12",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins80854@lib.\\r_1k_0402_0w0625_5p.normal\\(chips)",
+			"Logical" : "R12",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips)",
+			"Logical" : "SC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips)",
+			"Logical" : "SC2",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77763@lib.\\smd_tp40.normal\\(chips)",
+			"Logical" : "TP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77777@lib.\\smd_tp40.normal\\(chips)",
+			"Logical" : "TP2",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "PHY_LED_SPEED",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):phy_led_speed",
+			"Logical" : null,
+			"Physical" : "PHY_LED_SPEED"
+		},
+		{
+			"Name" : "PHY_LED_LINK",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):phy_led_link",
+			"Logical" : null,
+			"Physical" : "PHY_LED_LINK"
+		},
+		{
+			"Name" : "AVDD18_OUT",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd18_out",
+			"Logical" : null,
+			"Physical" : "AVDD18_OUT"
+		},
+		{
+			"Name" : "AVDD33_1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd33_1",
+			"Logical" : null,
+			"Physical" : "AVDD33_1"
+		},
+		{
+			"Name" : "VDDO_1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):vddo_1",
+			"Logical" : null,
+			"Physical" : "VDDO_1"
+		},
+		{
+			"Name" : "AVDD18_1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd18_1",
+			"Logical" : null,
+			"Physical" : "AVDD18_1"
+		},
+		{
+			"Name" : "AVDDC18",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avddc18",
+			"Logical" : null,
+			"Physical" : "AVDDC18"
+		},
+		{
+			"Name" : "VDDO_2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):vddo_2",
+			"Logical" : null,
+			"Physical" : "VDDO_2"
+		},
+		{
+			"Name" : "DVDD_OUT",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):dvdd_out",
+			"Logical" : null,
+			"Physical" : "DVDD_OUT"
+		},
+		{
+			"Name" : "DVDD_2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):dvdd_2",
+			"Logical" : null,
+			"Physical" : "DVDD_2"
+		},
+		{
+			"Name" : "AVDD33_2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd33_2",
+			"Logical" : null,
+			"Physical" : "AVDD33_2"
+		},
+		{
+			"Name" : "GNDPAD",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):gndpad",
+			"Logical" : null,
+			"Physical" : "GNDPAD"
+		},
+		{
+			"Name" : "DVDD_1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):dvdd_1",
+			"Logical" : null,
+			"Physical" : "DVDD_1"
+		},
+		{
+			"Name" : "AVDD18_4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd18_4",
+			"Logical" : null,
+			"Physical" : "AVDD18_4"
+		},
+		{
+			"Name" : "AVDD18_3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd18_3",
+			"Logical" : null,
+			"Physical" : "AVDD18_3"
+		},
+		{
+			"Name" : "VDDO_3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):vddo_3",
+			"Logical" : null,
+			"Physical" : "VDDO_3"
+		},
+		{
+			"Name" : "REG_IN",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):reg_in",
+			"Logical" : null,
+			"Physical" : "REG_IN"
+		},
+		{
+			"Name" : "VDDO_SEL",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):vddo_sel",
+			"Logical" : null,
+			"Physical" : "VDDO_SEL"
+		},
+		{
+			"Name" : "AVDD18_2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):avdd18_2",
+			"Logical" : null,
+			"Physical" : "AVDD18_2"
+		},
+		{
+			"Name" : "N77586",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77586",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "N77631",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):n77631",
+			"Logical" : "N77631",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "R12.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins80854@lib.\\r_1k_0402_0w0625_5p.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "R12.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins80854@lib.\\r_1k_0402_0w0625_5p.normal\\(chips):\\1\\",
+			"Logical" : "N1419919",
+			"Physical" : null
+		},
+		{
+			"Name" : "R8.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48327@lib.\\r_10k_0402_0w0625_1p.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "PHY_LED_LINK"
+		},
+		{
+			"Name" : "R9.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48347@lib.\\r_10k_0402_0w0625_1p.normal\\(chips):\\2\\",
+			"Logical" : "GND",
+			"Physical" : "PHY_LED_SPEED"
+		},
+		{
+			"Name" : "SC1.9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\9\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\8\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\7\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\6\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\1\\",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\2\\",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\3\\",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\4\\",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC1.5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\\screw_with_via.normal\\(chips):\\5\\",
+			"Logical" : "N77586",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\1\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.2",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\2\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.3",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\3\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.4",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\4\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.5",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\5\\",
+			"Logical" : "GND_EARTH",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.9",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\9\\",
+			"Logical" : "N77631",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.8",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\8\\",
+			"Logical" : "N77631",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.7",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\7\\",
+			"Logical" : "N77631",
+			"Physical" : null
+		},
+		{
+			"Name" : "SC2.6",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\\screw_with_via.normal\\(chips):\\6\\",
+			"Logical" : "N77631",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP1.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77763@lib.\\smd_tp40.normal\\(chips):\\1\\",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "TP2.1",
+			"C_PATH" : "@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77777@lib.\\smd_tp40.normal\\(chips):\\1\\",
+			"Logical" : "VCCD_3.3V",
+			"Physical" : null
+		}
+	]
+}

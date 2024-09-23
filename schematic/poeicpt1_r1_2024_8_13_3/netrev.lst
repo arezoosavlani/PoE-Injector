@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : poeicpt1_r1_2024_8_13_3.brd                   )
+(    Software Version : 22.1S006                                      )
+(    Date/Time        : Sat Aug 17 14:42:44 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\GitHub\PoE-Injector\design_board\poeicpt1_r1_2024_8_13_3\allegro'
+Design Directory:            'E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3'
+Old design name:             'E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/poeicpt1_r1_2024_8_13_3.brd'
+New design name:             'E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/poeicpt1_r1_2024_8_13_3.brd'
+
+CmdLine: netrev -y 1 -i E:\GitHub\PoE-Injector\design_board\poeicpt1_r1_2024_8_13_3\allegro -q netrev_constraint_report.xml E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/#Taaaack20692.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstchip.dat 
+   Finished reading E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstchip.dat (00:00:00.01)
+Starting to read E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstxprt.dat 
+   Finished reading E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstxnet.dat 
+   Finished reading E:/GitHub/PoE-Injector/design_board/poeicpt1_r1_2024_8_13_3/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           e:/cadence_app/share/local/pcb/modules 
+
+PSMPATH =  E:/GitHub/PoE-Injector/design_board/footprint_Library 
+
+PADPATH =  E:/GitHub/PoE-Injector/design_board/footprint_Library 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Aug 17 14:42:44 2024
+   DESIGN NAME : 'POEICPT1_R1_2024_8_13_2'
+   PACKAGING ON Jul 30 2023 23:27:03
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:21
+elapsed time  0:00:00
+

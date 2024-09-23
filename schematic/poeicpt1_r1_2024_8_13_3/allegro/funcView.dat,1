@@ -1,0 +1,117 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!FUNC_CDS_FSP_INSTANCE_ID!FUNC_CDS_FSP_IS_FPGA!FUNC_CDS_FSP_UID!
+J!e:/github/poe-injector/design_board/layout/poeicpt1_r1_2024_8_18_01.brd!Sun Aug 18 16:13:45 2024!-17900.00!-8500.00!192100.00!8500.00!0.01!mils!POEICPT1_R1_2024_8_13_2!11.600000 mil!2!UP TO DATE!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77371@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID1!.\chipsView.dat!!!!!!TF-119!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77387@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID2!.\chipsView.dat!!!!!!TF-118!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77403@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID3!.\chipsView.dat!!!!!!TF-117!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77419@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID4!.\chipsView.dat!!!!!!TF-116!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77435@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID5!.\chipsView.dat!!!!!!TF-115!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77451@lib.\fiducial_corner.normal\(chips)!FIDUCIAL_CORNER_FIDUCIAL_CORNER_FIDUCIAL_CORNER!CORNER_FID6!.\chipsView.dat!!!!!!TF-114!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77474@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID1!.\chipsView.dat!!!!!!TF-113!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77490@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID2!.\chipsView.dat!!!!!!TF-112!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77506@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID3!.\chipsView.dat!!!!!!TF-111!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77522@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID4!.\chipsView.dat!!!!!!TF-110!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77538@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID5!.\chipsView.dat!!!!!!TF-109!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77554@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID6!.\chipsView.dat!!!!!!TF-108!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77570@lib.\fiducial.normal\(chips)!FIDUCIAL_FIDUCIAL_FIDUCIAL!FID7!.\chipsView.dat!!!!!!TF-107!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins80854@lib.\r_1k_0402_0w0625_5p.normal\(chips)!R_1K_0402_0W0625_5P_0402_4.87K!R12!.\chipsView.dat!!!!!!F47!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77245@lib.\screw_with_via.normal\(chips)!SCREW_WITH_VIA_SCREW_WITH_VIA_SCREW_WITH_VIA!SC1!.\chipsView.dat!!!!!!F12!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77293@lib.\screw_with_via.normal\(chips)!SCREW_WITH_VIA_SCREW_WITH_VIA_SCREW_WITH_VIA!SC2!.\chipsView.dat!!!!!!F11!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77763@lib.\smd_tp40.normal\(chips)!SMD_TP40_SMD_TP40_GND!TP1!.\chipsView.dat!!!!!!F10!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins77777@lib.\smd_tp40.normal\(chips)!SMD_TP40_SMD_TP40_VCCD_3.3V!TP2!.\chipsView.dat!!!!!!F9!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37510@lib.\blm41pg102sn1l.normal\(chips)!BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L!B1!.\chipsView.dat!!!!!!F101!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52831@lib.\blm41pg102sn1l.normal\(chips)!BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L!B2!.\chipsView.dat!!!!!!F100!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins55821@lib.\blm41pg102sn1l.normal\(chips)!BLM41PG102SN1L_BLM41PG102SN1L_BLM41PG102SN1L!B3!.\chipsView.dat!!!!!!F99!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19441@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C1!.\chipsView.dat!!!!!!F98!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins40805@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C10!.\chipsView.dat!!!!!!F97!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins40781@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C11!.\chipsView.dat!!!!!!F96!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18161@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C12!.\chipsView.dat!!!!!!F95!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins31754@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C14!.\chipsView.dat!!!!!!F94!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins31778@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C15!.\chipsView.dat!!!!!!F93!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34822@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C16!.\chipsView.dat!!!!!!F92!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52567@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C17!.\chipsView.dat!!!!!!F91!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52615@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C19!.\chipsView.dat!!!!!!F90!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19465@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C2!.\chipsView.dat!!!!!!F89!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52973@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C23!.\chipsView.dat!!!!!!F88!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53091@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C24!.\chipsView.dat!!!!!!F87!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53115@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C25!.\chipsView.dat!!!!!!F86!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53139@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C26!.\chipsView.dat!!!!!!F85!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53163@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C27!.\chipsView.dat!!!!!!F84!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53187@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C28!.\chipsView.dat!!!!!!F83!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53211@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C29!.\chipsView.dat!!!!!!F82!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37951@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C3!.\chipsView.dat!!!!!!F81!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53235@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C30!.\chipsView.dat!!!!!!F80!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53259@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C31!.\chipsView.dat!!!!!!F79!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53283@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C32!.\chipsView.dat!!!!!!F78!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53307@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C33!.\chipsView.dat!!!!!!F77!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19961@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C35!.\chipsView.dat!!!!!!F76!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20013@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C36!.\chipsView.dat!!!!!!F75!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20265@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C37!.\chipsView.dat!!!!!!F74!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19881@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C38!.\chipsView.dat!!!!!!F73!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19933@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C39!.\chipsView.dat!!!!!!F72!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37975@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C4!.\chipsView.dat!!!!!!F71!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20797@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C40!.\chipsView.dat!!!!!!F70!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20609@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C41!.\chipsView.dat!!!!!!F69!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20637@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C42!.\chipsView.dat!!!!!!F68!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20665@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C43!.\chipsView.dat!!!!!!F67!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20693@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C44!.\chipsView.dat!!!!!!F66!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37578@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C7!.\chipsView.dat!!!!!!F65!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37602@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_100NF!C8!.\chipsView.dat!!!!!!F64!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38843@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)!C_100N_0603_X7R_50V_10P_0603_10UF!C13!.\chipsView.dat!!!!!!F63!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins37639@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)!C_100N_0603_X7R_50V_10P_0603_10UF!C9!.\chipsView.dat!!!!!!F62!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52591@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_1UF!C18!.\chipsView.dat!!!!!!F61!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52949@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_1UF!C22!.\chipsView.dat!!!!!!F60!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52861@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_2.2UF!C20!.\chipsView.dat!!!!!!F59!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52885@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_2.2UF!C21!.\chipsView.dat!!!!!!F58!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins53331@lib.\c_100n_0402_x7r_16v_10p.normal\(chips)!C_100N_0402_X7R_16V_10P_0402_4.7UF!C34!.\chipsView.dat!!!!!!F57!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38012@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)!C_100N_0603_X7R_50V_10P_0603_100NF!C5!.\chipsView.dat!!!!!!F56!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38036@lib.\c_100n_0603_x7r_50v_10p.normal\(chips)!C_100N_0603_X7R_50V_10P_0603_100NF!C6!.\chipsView.dat!!!!!!F55!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18717@lib.\header_smd_2mm_2x2.normal\(chips)!HEADER_SMD_2MM_2X2_2115_2X2_HEADER_SMD_2MM_2X2!J1!.\chipsView.dat!!!!!!F54!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20041@lib.\2044_2x10g30sa_lcp.normal\(chips)!2044_2X10G30SA_LCP_2044_2X10G30SA_LCP_2044_2X10G30SA_LCP!J2!.\chipsView.dat!!!!!!F53!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61161@lib.\jtag_connector.normal\(chips)!JTAG_CONNECTOR_2115_2X10_JTAG!J3!.\chipsView.dat!!!!!!F52!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19225@lib.\r_1k_0402_0w0625_1p.normal\(chips)!R_1K_0402_0W0625_1P_0402_4.7K 1%!R1!.\chipsView.dat!!!!!!F51!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16674@lib.\r_100k_0402_0w0625_5p.normal\(chips)!R_100K_0402_0W0625_5P_0402_4.7K!R10!.\chipsView.dat!!!!!!F50!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16582@lib.\r_100k_0402_0w0625_5p.normal\(chips)!R_100K_0402_0W0625_5P_0402_4.7K!R2!.\chipsView.dat!!!!!!F49!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16800@lib.\r_1k_0402_0w0625_1p.normal\(chips)!R_1K_0402_0W0625_1P_0402_1K 1%!R11!.\chipsView.dat!!!!!!F48!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16748@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_47!R13!.\chipsView.dat!!!!!!F46!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16064@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_47!R14!.\chipsView.dat!!!!!!F45!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins16108@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_47!R15!.\chipsView.dat!!!!!!F44!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins57980@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_47!R19!.\chipsView.dat!!!!!!F43!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins15329@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_47!R3!.\chipsView.dat!!!!!!F42!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38530@lib.\r_0r_0402_0w0625.normal\(chips)!R_0R_0402_0W0625_0402_4.7K!R16!.\chipsView.dat!!!!!!F41!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins38550@lib.\r_0r_0402_0w0625.normal\(chips)!R_0R_0402_0W0625_0402_4.7K!R17!.\chipsView.dat!!!!!!F40!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins39535@lib.\r_0r_0402_0w0625.normal\(chips)!R_0R_0402_0W0625_0402_47!R18!.\chipsView.dat!!!!!!F39!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins49472@lib.\r_1k_0402_0w0625_5p.normal\(chips)!R_1K_0402_0W0625_5P_0402_47!R20!.\chipsView.dat!!!!!!F38!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins49492@lib.\r_1k_0402_0w0625_5p.normal\(chips)!R_1K_0402_0W0625_5P_0402_47!R21!.\chipsView.dat!!!!!!F37!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52921@lib.\r_1k_0402_0w0625_5p.normal\(chips)!R_1K_0402_0W0625_5P_0402_47!R26!.\chipsView.dat!!!!!!F36!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins59217@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_10K 1%!R22!.\chipsView.dat!!!!!!F35!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins58740@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_100!R23!.\chipsView.dat!!!!!!F34!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34897@lib.\r_75r_0402_0w0625_5p.normal\(chips)!R_75R_0402_0W0625_5P_0402_4.7K__NP!R24!.\chipsView.dat!!!!!!F33!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34917@lib.\r_75r_0402_0w0625_5p.normal\(chips)!R_75R_0402_0W0625_5P_0402_100!R25!.\chipsView.dat!!!!!!F32!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19989@lib.\r_75r_0603_0w1_5p.normal\(chips)!R_75R_0603_0W1_5P_0603_75!R27!.\chipsView.dat!!!!!!F31!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20133@lib.\r_75r_0603_0w1_5p.normal\(chips)!R_75R_0603_0W1_5P_0603_75!R28!.\chipsView.dat!!!!!!F30!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19857@lib.\r_75r_0603_0w1_5p.normal\(chips)!R_75R_0603_0W1_5P_0603_75!R29!.\chipsView.dat!!!!!!F29!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins19909@lib.\r_75r_0603_0w1_5p.normal\(chips)!R_75R_0603_0W1_5P_0603_75!R30!.\chipsView.dat!!!!!!F28!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61253@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R31!.\chipsView.dat!!!!!!F27!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61301@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R32!.\chipsView.dat!!!!!!F26!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61349@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R33!.\chipsView.dat!!!!!!F25!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61113@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R35!.\chipsView.dat!!!!!!F24!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61089@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R36!.\chipsView.dat!!!!!!F23!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61137@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R37!.\chipsView.dat!!!!!!F22!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61277@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R38!.\chipsView.dat!!!!!!F21!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61325@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56!R39!.\chipsView.dat!!!!!!F20!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins61373@lib.\r_47r_0402_0w0625_5p.normal\(chips)!R_47R_0402_0W0625_5P_0402_56__NP!R34!.\chipsView.dat!!!!!!F19!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48530@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_49.9 1%!R4!.\chipsView.dat!!!!!!F18!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48550@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_49.9 1%!R5!.\chipsView.dat!!!!!!F17!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48734@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_49.9 1%!R6!.\chipsView.dat!!!!!!F16!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48768@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_49.9 1%!R7!.\chipsView.dat!!!!!!F15!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48327@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_4.7K__NP 1%!R8!.\chipsView.dat!!!!!!F14!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins48347@lib.\r_10k_0402_0w0625_1p.normal\(chips)!R_10K_0402_0W0625_1P_0402_4.7K__NP 1%!R9!.\chipsView.dat!!!!!!F13!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins18672@lib.\at24c04d_sshm_t.normal\(chips)!AT24C04D_SSHM_T_AT24C04D_SSHM_T_AT24C04D_SSHM_T!U1!.\chipsView.dat!!!!!!F8!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins14111@lib.\dp83848ksq_nopb.normal\(chips)!DP83848KSQ_NOPB_DP83848KSQ_NOPB_DP83848KSQ_NOPB!U2!.\chipsView.dat!!!!!!F7!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins7563@lib.\stm32f765zit6a.normal\(chips)!STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6!U4!.\chipsView.dat!!!!!!F6!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins7853@lib.\stm32f765zit6b.normal\(chips)!STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6!U4!.\chipsView.dat!!!!!!F5!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins8150@lib.\stm32f765zit6c.normal\(chips)!STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6!U4!.\chipsView.dat!!!!!!F4!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins8273@lib.\stm32f765zit6d.normal\(chips)!STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6!U4!.\chipsView.dat!!!!!!F3!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins52451@lib.\stm32f765zit6e.normal\(chips)!STM32F765ZIT6_STM32F765ZIT6_(S1+S2+S3+S4+S5)_STM32F765ZIT6!U4!.\chipsView.dat!!!!!!F2!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins20157@lib.\lp82453nl.normal\(chips)!LP82453NL_LP82453NL_LP82453NL!U5!.\chipsView.dat!!!!!!F1!!!!!!!
+S!@poeicpt1_r1_2024_8_13_2.schematic1(sch_1):ins34326@lib.\max3232eipw.normal\(chips)!MAX3232EIPW_MAX3232EIPW_MAX3232EIPW!U6!.\chipsView.dat!!!!!!F0!!!!!!!
